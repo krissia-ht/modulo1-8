@@ -8,8 +8,8 @@
  // Función que cambia el color de fondo del menú cuando se desplaza
  window.addEventListener("scroll", () => {
      if (window.scrollY > headerHeight) {
-         menu.style.backgroundColor = "rgb(50,43,150)"; // Cambia el color de fondo a azul
+         menu.style.backgroundColor = "rgba(94,, 45, 109)"; // Cambia el color de fondo a azul
      } else {
-         menu.style.backgroundColor = "rgba(0, 0, 0, 0)"; // Vuelve al fondo transparente
+         menu.style.backgroundColor = "rgba(94, 45, 109)"; // Vuelve al fondo transparente
      }
  });

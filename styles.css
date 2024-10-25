@@ -2,7 +2,7 @@
 
 /* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
-    background-image: url('img/Cuidad.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
+    background-image: url('img/imagen.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
     background-position: center; /* Centra la imagen en el encabezado */
     height: 35rem; /* Altura del encabezado (ajusta según tus necesidades) */
@@ -88,7 +88,7 @@ body {
 
 
 .footer {
-    background-color: rgb(5,43,150); /* Cambia el color de fondo a azul */
+    background-color: rgb(94, 45, 109); /* Cambia el color de fondo a azul */
     padding: 10rem;
     color: #fffdfd;
     color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
